@@ -16,8 +16,8 @@ This is a solution to the [NFT preview card component challenge on Frontend Ment
 ## Links
 
 
-- Solution URL: [melviinn/product-preview-card-component](https://www.frontendmentor.io/solutions/qr-code-challenge-SyH5p78QuX)
-- Live Site URL: [product-preview-card-component.vercel.app](https://product-preview-card-component-six-chi.vercel.app/)
+- Solution URL: [melviinn/nft-preview-card](https://www.frontendmentor.io/solutions/nft-preview-card-component-htmlcss-eq76YpLPee)
+- Live Site URL: [nft-preview-card.vercel.app](https://nft-preview-card-dun.vercel.app/)
 
 ## My process
 
